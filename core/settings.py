@@ -25,7 +25,11 @@ SECRET_KEY = 'django-insecure-hpv1a#an3-rj6iq5zd_(n&xrk6ne#414aps9ab9po-#-$agd-k
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    '127.0.0.1',
+    'localhost',
+    'agriassist-ai-eza0.onrender.com'
+]
 
 
 # Application definition
