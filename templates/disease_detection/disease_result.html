@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Disease Detection Result</title>
+
+<style>
+
+body{
+    font-family:Arial,sans-serif;
+    background:linear-gradient(to right,#e8f5e9,white);
+    text-align:center;
+    padding:50px;
+}
+
+.container{
+    background:white;
+    width:50%;
+    margin:auto;
+    padding:40px;
+    border-radius:25px;
+    box-shadow:0px 5px 20px rgba(0,0,0,0.1);
+}
+
+h1{
+    color:#2d6a4f;
+}
+
+.result{
+    background:#e8f5e9;
+    padding:20px;
+    border-radius:20px;
+    color:#1b5e20;
+    font-size:30px;
+    font-weight:bold;
+}
+
+button{
+    width:250px;
+    padding:15px;
+    background:linear-gradient(to right,#c8e6c9,white);
+    color:#2e7d32;
+    border:2px solid #a5d6a7;
+    border-radius:25px;
+    font-size:18px;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+button:hover{
+    transform:scale(1.05);
+    transition:0.3s;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>🍂 Disease Detection Result</h1>
+
+<br>
+
+<div class="result">
+
+Detected Disease
+
+<br><br>
+
+🍃 {{ disease }}
+
+</div>
+
+<br><br>
+
+<a href="/disease_detection/">
+<button>
+🔄 Try Again
+</button>
+</a>
+
+<br><br>
+
+<a href="/dashboard/">
+<button>
+🏠 Dashboard
+</button>
+</a>
+
+</div>
+
+</body>
+</html>

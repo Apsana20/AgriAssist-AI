@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Register</title>
+
+<style>
+
+body{
+    font-family:Arial,sans-serif;
+    background:linear-gradient(to right,#e8f5e9,white);
+    text-align:center;
+    padding:50px;
+}
+
+.container{
+    background:white;
+    width:45%;
+    margin:auto;
+    padding:30px;
+    border-radius:25px;
+    box-shadow:0px 5px 20px rgba(0,0,0,0.1);
+}
+
+h1{
+    color:#2d6a4f;
+}
+
+input{
+    width:80%;
+    padding:12px;
+    border:2px solid #c8e6c9;
+    border-radius:15px;
+    font-size:16px;
+}
+
+button{
+    width:220px;
+    padding:15px;
+    background:linear-gradient(to right,#c8e6c9,white);
+    color:#2e7d32;
+    border:2px solid #a5d6a7;
+    border-radius:25px;
+    font-size:18px;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+button:hover{
+    transform:scale(1.05);
+    transition:0.3s;
+}
+
+p{
+    color:#555;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>📝 Register</h1>
+
+<form method="POST">
+    {% csrf_token %}
+
+    <input type="text" name="username" placeholder="Username">
+
+    <br><br>
+
+    <input type="email" name="email" placeholder="Email">
+
+    <br><br>
+
+    <input type="password" name="password" placeholder="Password">
+
+    <br><br>
+
+    <button type="submit">Create Account</button>
+
+</form>
+
+<br>
+
+<p>Already have an account?</p>
+
+<a href="/login/">
+    <button>🔐 Login</button>
+</a>
+
+</div>
+
+</body>
+</html>

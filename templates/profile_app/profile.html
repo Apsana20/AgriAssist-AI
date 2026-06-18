@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Profile</title>
+</head>
+
+<body style="font-family:Arial;background:linear-gradient(to right,#e8f5e9,white);text-align:center;padding:40px;">
+
+<h1 style="color:#2d6a4f;">
+👤 User Profile
+</h1>
+
+<h2>
+Welcome {{ user.username }}
+</h2>
+
+<h3>
+Role:
+{% if user.is_superuser %}
+Administrator 👑
+{% else %}
+Standard User 👤
+{% endif %}
+</h3>
+
+</body>
+</html>

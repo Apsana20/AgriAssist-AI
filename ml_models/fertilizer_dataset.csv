@@ -1,0 +1,60 @@
+N,P,K,crop_name,label
+90,42,43,rice,Urea
+85,40,40,rice,Urea
+95,45,44,rice,Urea
+88,43,41,rice,Urea
+92,44,42,rice,Urea
+89,41,40,rice,Urea
+91,42,43,rice,Urea
+94,46,45,rice,Urea
+87,40,42,rice,Urea
+93,44,43,rice,Urea
+
+20,30,25,wheat,DAP
+25,35,20,wheat,DAP
+22,28,24,wheat,DAP
+18,25,22,wheat,DAP
+24,32,26,wheat,DAP
+23,31,27,wheat,DAP
+21,29,23,wheat,DAP
+19,27,21,wheat,DAP
+26,34,25,wheat,DAP
+17,26,20,wheat,DAP
+
+10,20,30,maize,Compost
+15,18,35,maize,Compost
+12,22,32,maize,Compost
+14,20,34,maize,Compost
+13,21,33,maize,Compost
+16,19,36,maize,Compost
+17,23,37,maize,Compost
+11,17,31,maize,Compost
+18,24,38,maize,Compost
+12,18,30,maize,Compost
+
+70,35,40,cotton,NPK
+72,36,42,cotton,NPK
+68,34,39,cotton,NPK
+74,37,43,cotton,NPK
+69,33,41,cotton,NPK
+71,35,40,cotton,NPK
+73,36,42,cotton,NPK
+67,32,38,cotton,NPK
+
+50,25,30,sugarcane,Potash
+52,26,31,sugarcane,Potash
+48,24,29,sugarcane,Potash
+54,27,32,sugarcane,Potash
+49,23,28,sugarcane,Potash
+51,25,30,sugarcane,Potash
+53,26,31,sugarcane,Potash
+47,22,27,sugarcane,Potash
+
+60,30,35,groundnut,Super Phosphate
+62,31,36,groundnut,Super Phosphate
+58,29,34,groundnut,Super Phosphate
+64,32,37,groundnut,Super Phosphate
+59,28,33,groundnut,Super Phosphate
+61,30,35,groundnut,Super Phosphate
+63,31,36,groundnut,Super Phosphate
+57,27,32,groundnut,Super Phosphate
