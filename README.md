@@ -10,7 +10,7 @@ AI-powered Smart Agriculture System built using Django, Machine Learning, HTML, 
 
 ### Admin Dashboard 2
 
-![Admin Dashboard 2](./screenshot/admin2.png)
+![Admin Dashboard](./screenshot/admin2.png)
 
 ### AI Chatbot
 
