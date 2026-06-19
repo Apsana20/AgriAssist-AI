@@ -33,25 +33,11 @@ https://github.com/Apsana20/AgriAssist-AI
 * Machine Learning
 ## 📸 Project Screenshots
 
-### Home Page
-![Home Page](screenshot/home_page.png)
-
-### Login Page
-![Login Page](screenshot/login_page.png)
-
-### Registration Page
-![Registration Page](screenshot/register_page.png)
-
-### Crop Prediction
-![Crop Prediction](screenshot/crop_prediction.png)
-
-### Disease Detection
-![Disease Detection](screenshot/disease_detection.png)
-
-### Analytics Dashboard
-![Analytics Dashboard](screenshot/analytics_dashboard.png)
 ### Admin Dashboard
-![Admin Dashboard](screenshot/admin1.png)
+![Admin Dashboard](./screenshot/admin1.png)
+
+### Admin Dashboard 2
+![Admin Dashboard 2](./screenshot/admin2.png)
 
 ### AI Chatbot
 ![AI Chatbot](./screenshot/ai chatbot.png)
@@ -63,28 +49,33 @@ https://github.com/Apsana20/AgriAssist-AI
 ![Disease Detection](./screenshot/disease detection.png)
 
 ### Fertilisation Recommendation
-![Fertilisation Recommendation](screenshot/fertilisation recommendation.png)
+![Fertilisation Recommendation](./screenshot/fertilisation recomendation.png)
 
 ### Login Page
 ![Login Page](./screenshot/login.png)
 
 ### Prediction History
-![Prediction History](screenshot/prediction history.png)
+![Prediction History](./screenshot/prediction history.png)
 
 ### Recommendation
-![Recommendation](screenshot/recomendation.png)
+![Recommendation](./screenshot/recomendation.png)
 
 ### Register Page
 ![Register Page](./screenshot/register.png)
 
 ### User Profile
-![User Profile](screenshot/user profile.png)
+![User Profile](./screenshot/user profile.png)
+
+### Web Page
+![Web Page](./screenshot/webpage.png)
 
 ### Welcome Page
-![Welcome Page](screenshot/welcome.png)
+![Welcome Page](./screenshot/welcome.png)
 
 ### Yield Prediction
 ![Yield Prediction](./screenshot/yeild prediction.png)
+
 ## 👩‍💻 Author
 
 Apsana S A
+
