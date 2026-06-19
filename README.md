@@ -54,19 +54,19 @@ https://github.com/Apsana20/AgriAssist-AI
 ![Admin Dashboard](screenshot/admin1.png)
 
 ### AI Chatbot
-![AI Chatbot](screenshot/ai chatbot.png)
+![AI Chatbot](./screenshot/ai chatbot.png)
 
 ### Analytics Dashboard
-![Analytics Dashboard](screenshot/analytics dashboard.png)
+![Analytics Dashboard](./screenshot/analytics dashboard.png)
 
 ### Disease Detection
-![Disease Detection](screenshot/disease detection.png)
+![Disease Detection](./screenshot/disease detection.png)
 
 ### Fertilisation Recommendation
 ![Fertilisation Recommendation](screenshot/fertilisation recommendation.png)
 
 ### Login Page
-![Login Page](screenshot/login.png)
+![Login Page](./screenshot/login.png)
 
 ### Prediction History
 ![Prediction History](screenshot/prediction history.png)
@@ -75,7 +75,7 @@ https://github.com/Apsana20/AgriAssist-AI
 ![Recommendation](screenshot/recomendation.png)
 
 ### Register Page
-![Register Page](screenshot/register.png)
+![Register Page](./screenshot/register.png)
 
 ### User Profile
 ![User Profile](screenshot/user profile.png)
@@ -84,7 +84,7 @@ https://github.com/Apsana20/AgriAssist-AI
 ![Welcome Page](screenshot/welcome.png)
 
 ### Yield Prediction
-![Yield Prediction](screenshot/yeild prediction.png)
+![Yield Prediction](./screenshot/yeild prediction.png)
 ## 👩‍💻 Author
 
 Apsana S A
