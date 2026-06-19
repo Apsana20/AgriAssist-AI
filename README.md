@@ -16,7 +16,7 @@
 ![Disease Detection](./screenshot/disease detection.png)
 
 ### Fertilisation Recommendation
-![Fertilisation Recommendation](./screenshot/fertilisation recomendation.png)
+![Fertilisation Recommendation](./screenshot/fertilisation recommendation.png)
 
 ### Login Page
 ![Login Page](./screenshot/login.png)
@@ -25,7 +25,8 @@
 ![Prediction History](./screenshot/prediction history.png)
 
 ### Recommendation
-![Recommendation](./screenshot/recomendation.png)
+![Recommendation](./screenshot/recommendation.png)
+
 
 ### Register Page
 ![Register Page](./screenshot/register.png)
@@ -40,7 +41,7 @@
 ![Welcome Page](./screenshot/welcome.png)
 
 ### Yield Prediction
-![Yield Prediction](./screenshot/yeild prediction.png)
+![Yield Prediction](./screenshot/yield prediction.png)
 ## 👩‍💻 Author
 
 Apsana S A
