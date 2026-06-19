@@ -14,15 +14,13 @@ AI-powered Smart Agriculture System built using Django, Machine Learning, HTML, 
 
 ### AI Chatbot
 
-![AI Chatbot](./screenshot/ai_chatbot.png)
-
+![AI Chatbot](./screenshot/ai chatbot.png)
 ### Analytics Dashboard
-
-![Analytics Dashboard](./screenshot/analytics_dashboard.png)
+![Analytics Dashboard](./screenshot/analytics dashboard.png)
 
 ### Disease Detection
 
-![Disease Detection](./screenshot/disease_detection.png)
+![Disease Detection](./screenshot/disease detection.png)
 
 ### Fertilisation Recommendation
 
@@ -34,7 +32,7 @@ AI-powered Smart Agriculture System built using Django, Machine Learning, HTML, 
 
 ### Prediction History
 
-![Prediction History](./screenshot/prediction_history.png)
+![Prediction History](./screenshot/prediction history.png)
 
 ### Recommendation
 
@@ -46,8 +44,8 @@ AI-powered Smart Agriculture System built using Django, Machine Learning, HTML, 
 
 ### User Profile
 
-![User Profile](./screenshot/user_profile.png)
 
+![User Profile](./screenshot/user profile.png)
 ### Web Page
 
 ![Web Page](./screenshot/webpage.png)
@@ -58,8 +56,7 @@ AI-powered Smart Agriculture System built using Django, Machine Learning, HTML, 
 
 ### Yield Prediction
 
-![Yield Prediction](./screenshot/yield_prediction.png)
-
+![Yield Prediction](./screenshot/yield prediction.png)
 ## 👩‍💻 Author
 
 Apsana S A
